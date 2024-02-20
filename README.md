@@ -1,16 +1,27 @@
-### Hi there 👋
+# About Me
 
-<!--
-**AndresSg0716/AndresSg0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Andres. I am a young web developer specialized in HTML and CSS languages. 
 
-Here are some ideas to get you started:
+## My Strengths
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Development
+- **Semantics**: Known for good semantics, leading to improved webpage performance and optimization.
+
+### Frontend Development
+- While not as significant as my backend skills, I also have capabilities in Frontend development.
+
+## Soft Skills
+- **Effective Communication**: I excel in conveying ideas and information clearly.
+- **Responsibility**: Known for my accountability in projects.
+- **Leadership**: Demonstrated ability to lead and inspire teams.
+
+## Language Proficiency
+- **English**: Especially known for my proficient English skills.
+
+## Hobbies
+- **Music**: A significant part of my life outside of programming.
+- **Cinema**: An avid moviegoer.
+- **Gym**: Committed to staying fit and healthy.
+- **Motorsports**: Particularly passionate about F1.
+
+Thank you for taking the time to get to know me a bit better. I am always open to discussing potential projects or opportunities where I can contribute and learn.
